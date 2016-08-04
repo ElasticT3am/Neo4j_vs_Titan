@@ -7,7 +7,6 @@ better in a high-level perspective and what performing differences titan and neo
 
 The most important bullets for any distributed database that come in our mind, are the following:
 
-'''
 - Performance
 - Scalability
 - Backend Storage System
@@ -16,7 +15,6 @@ The most important bullets for any distributed database that come in our mind, a
 - Search
 - Modeling principles
 - APIs
-'''
 
 The basic differences between Neo4j (before release 3.0) and Titan is scalability. Titan can distribute
 the graph across multiple machines by using either Cassandra or Hbase as the storage backend system.
