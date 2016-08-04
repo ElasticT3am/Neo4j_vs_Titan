@@ -21,9 +21,9 @@ the graph across multiple machines by using either Cassandra or Hbase as the sto
 
 So after a long search on blogs, project sites, stackoverflow and google groups, we found the following advantages in each distributed graph database
 
-The advantages of Titan Graph database:
+The advantages of **Titan** Graph database:
 
-* **Titan** stores large graphs by scaling out
+*  Titan stores large graphs by scaling out
 
 *  Titan handles massive write loads
 
