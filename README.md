@@ -41,6 +41,15 @@ a new graph type system (Type safety from language -> driver -> protocol -> cyph
 * Official drivers for JS, Java, .NET and Python (based Bolt)
 * Neo4j features the new Neo4j Browser, which provides web - based access to
 graph database (data graph virtualization). Plus Neo$j browser Sync (Cloud Service)
+* Neo4j architecture is designed for optimizing fast management, storage, and traversal
+of nodes and relationships. An operation known in the relational database world as a join,
+whose performance **degrades exponentially with the number of relationships**,
+is performed by Neo4j as navigation from one node to another, whose performance is linear.
+* Neo4j uses a replicated master-slave cluster setup. It can store hundreds of trillions
+of entities for the largest datasets imaginable while being sensitive to compact storage.
+Other features for production applications include hot-backups and extensive monitoring.
+* A graph records data in nodes and relationships. Both can have properties.
+This is sometimes referred to as the "Property Graph Model".
 
 
 # Evaluation
