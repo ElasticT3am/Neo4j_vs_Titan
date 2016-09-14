@@ -1,7 +1,7 @@
 # Neo4j_vs_Titan
 A short markable repository which has as main role to describe the difference between the graph databases
 
-# Distrinuted graph databases (performing differences)
+# Distributed graph databases (performing differences)
 Like a fresh-men in distributed graph databases field, we are wondering which databases is
 better in a high-level perspective and what performing differences titan and neo4j have.
 
