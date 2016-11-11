@@ -34,3 +34,7 @@ Titan can distribute graphs across multiple machines by using either Cassandra o
 * A graph records data in nodes and relationships. Both can have properties. This is sometimes referred to as the "Property Graph Model".
 * Neo4j is used without any schema. Optionally, you can introduce it in order to gain performance or modeling benefits. This allows a way of working where the schema does not get in your way until you are at a stage where you want to reap the benefits of having one. (Schema commands can only be applied on the master machine in a Neo4j cluster)
 * Neo4j can help keep your data clean. It does so using constraints. Constraints allow you to specify the rules for what your data should look like.
+
+
+
+Back to main [README](https://github.com/ElasticThree/Neo4j_vs_Titan/blob/master/README.md)
