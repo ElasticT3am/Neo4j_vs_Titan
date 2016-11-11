@@ -18,6 +18,6 @@ The action points that elastic-team searched for a distributed database, are the
 ...[more](https://github.com/ElasticThree/Neo4j_vs_Titan/tree/master/Differences)
 
 # Evaluation
-Elastic TEAM is capable to demonstrate a status report with benchmarks and observations for our first Use Case - Indexing ASTs Java Projects in Distributed Graph Database. For more information about the kind of the Use Case, you can visit [ast-generator]() and [github-repo-parser]()
+Elastic TEAM is capable to demonstrate a status report with benchmarks and observations for our first Use Case - Indexing ASTs Java Projects in Distributed Graph Database. For more information about the kind of the Use Case, you can visit [ast-generator](https://github.com/ElasticThree/ast-generator) and [github-repo-parser](https://github.com/ElasticThree/github-repo-parser)
 
-...[more](https://github.com/ElasticThree/Neo4j_vs_Titan/tree/master/Differences)
+...[more](https://github.com/ElasticThree/Neo4j_vs_Titan/blob/master/Evaluation/)
