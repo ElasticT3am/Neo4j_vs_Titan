@@ -2,7 +2,7 @@
 This technical document constitutes a short report which has as main role to describe the difference (advantages and constitutes) between Neo4j and Titan graph databases/
 
 # Distributed graph databases (Strong Points)
-Like a fresh-team in distributed graph databases field wondering which databases is better for our project purposes. So, our team (elastic-team) searched for a high-level perspective titan and neo4j may have.
+Like a fresh-team in distributed graph databases field wondering which databases is better for our project purposes. So, our team (Elastic TEAM) searched for a high-level perspective titan and neo4j may have.
 
 The action points that elastic-team searched for a distributed database, are the following:
 
@@ -18,4 +18,6 @@ The action points that elastic-team searched for a distributed database, are the
 ...[more](https://github.com/ElasticThree/Neo4j_vs_Titan/tree/master/Differences)
 
 # Evaluation
-Stay tuned for our grah database beanchmarking, which can describe with a distinctive view the performing results between Neo4j and Tinan Graph databases.
+Elastic TEAM is capable to demonstrate a status report with benchmarks and observations for our first Use Case - Indexing ASTs Java Projects in Distributed Graph Database. For more information about the kind of the Use Case, you can visit [ast-generator]() and [github-repo-parser]()
+
+...[more](https://github.com/ElasticThree/Neo4j_vs_Titan/tree/master/Differences)
