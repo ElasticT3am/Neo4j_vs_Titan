@@ -15,7 +15,7 @@ The action points that elastic-team searched for a distributed database, are the
 - Modeling principles
 - APIs
 
-...[more]()
+...[more](https://github.com/ElasticThree/Neo4j_vs_Titan/tree/master/Differences)
 
 # Evaluation
 Stay tuned for our grah database beanchmarking, which can describe with a distinctive view the performing results between Neo4j and Tinan Graph databases.
