@@ -26,3 +26,4 @@ Again, we notice a big delay. 610 ms (as opposed to 74 ms)  to execute, to retur
 
 This query took 31286 ms (as opposed to 12380) to execute and returned 12380 rows, which means that it executed in approx half the time that it did in the without-index version.
 
+Back to [Evaluation README](https://github.com/ElasticThree/Neo4j_vs_Titan/tree/master/Evaluation)
