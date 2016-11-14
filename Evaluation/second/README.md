@@ -35,4 +35,4 @@ Highlighting some important observations:
  - Indexes on the parameters that are asked (via WHERE clauses or as property attributes like { name=”methodName”}) have a huge impact on the performance, with the overhead of a few more GB.
  - When we fetch a node, its closely related ones (e.g the methods of a class, the parameters of a method), are fetched into the cache with them so the query gets a significant boost.
 
-
+Back to [Evaluation README](https://github.com/ElasticThree/Neo4j_vs_Titan/tree/master/Evaluation)
