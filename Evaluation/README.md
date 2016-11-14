@@ -11,7 +11,7 @@ The neo4j master node lies on a physical machine with the following specs:
 * OS: Linux Mint 17
 
 
-The raw content that corresponds to the repositories downloaded from github was approximately 10 Terra Bytes. We did not have that much capacity available, so we decided to delete the raw github content after processing - uploading to neo4j. We ‘ve introduced some command-line-parameters (see our github-repo-parser project for more info), in order for this behavior to be configurable (--no-keep-files option).
+The raw content that corresponds to the repositories downloaded from github was approximately 10 Terra Bytes. We did not have that much capacity available, so we decided to delete the raw github content after processing - uploading to neo4j. We ‘ve introduced some command-line-parameters (see our  project for more info), in order for this behavior to be configurable (--no-keep-files option). More information about Elastic TEAM's project github-repo-parser, can be found [here](https://github.com/ElasticThree/Neo4j_vs_Titan.git)
 
 ####Our neo4j database consists of the following:
 
@@ -25,3 +25,7 @@ Db index size in total - 39.54  (GiB)
 
 
 ###[First Experiment](https://github.com/ElasticThree/Neo4j_vs_Titan/tree/master/Evaluation/first)
+
+###[Second Experiment](https://github.com/ElasticThree/Neo4j_vs_Titan/tree/master/Evaluation/second)
+
+###[Third Experiment](https://github.com/ElasticThree/Neo4j_vs_Titan/tree/master/Evaluation/third)
