@@ -36,3 +36,5 @@ This query took 24174 ms to execute, to return 1 row. Again, we needed to look u
 ![5](https://cloud.githubusercontent.com/assets/11991105/20218151/cd174e3e-a82b-11e6-8b5c-d373c07b1ecc.png)
 
 This query took 24022 ms to execute and returned 12380 rows. Again, we needed to look up every method node to find the methods named “connect”, and then look up their relationships to get class name, and fetch the property repoURL. They “heavy part” of the query would be again to check the method name, that checks a large portion of our graph.
+
+Back to [Evaluation README](https://github.com/ElasticThree/Neo4j_vs_Titan/tree/master/Evaluation)
