@@ -35,3 +35,5 @@ Db index size in total - 39.54  (GiB)
 Highlighting all results grouped together:
 
 ![final](https://cloud.githubusercontent.com/assets/11991105/20261194/716df9f2-aa65-11e6-9110-6c9743332097.png)
+
+back to [Main README](https://github.com/ElasticThree/Neo4j_vs_Titan)
