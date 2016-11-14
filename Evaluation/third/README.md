@@ -1,4 +1,4 @@
-###Third Experiment - (Test under heavy load)
+#Third Experiment - (Test under heavy load)
 
 Our final experiment was to test neo4j under heavy query load. For this purpose we ‘ve developed the following python script (this script is sent along with these experiment results):
 
