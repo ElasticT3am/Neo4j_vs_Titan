@@ -30,7 +30,7 @@ Db index size in total - 39.54  (GiB)
 
 ###[Third Experiment](https://github.com/ElasticThree/Neo4j_vs_Titan/tree/master/Evaluation/third)
 
-####Experiments Highlights
+##Experiments Highlights
 
 Highlighting all results grouped together:
 
