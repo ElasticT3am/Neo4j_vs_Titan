@@ -15,12 +15,12 @@ The raw content that corresponds to the repositories downloaded from github was 
 
 ####Our neo4j database consists of the following:
 
-Java lines of Code - 544.477.667  
-Github repositories - 66.456  
-Total neo4j nodes - 74.837.377
-Total relationships - 69.995.580
-Properties - 149.108.239
-Db index size in total - 39.54  (GiB) 
+- Java lines of Code - 544.477.667  
+- Github repositories - 66.456  
+- Total neo4j nodes - 74.837.377  
+- Total relationships - 69.995.580   
+- Properties - 149.108.239  
+- Db index size in total - 39.54  (GiB)   
 
 
 
